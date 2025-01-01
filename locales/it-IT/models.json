@@ -1127,6 +1127,9 @@
   "openai/gpt-4o-mini": {
     "description": "GPT-4o mini è il modello più recente di OpenAI, lanciato dopo GPT-4 Omni, che supporta input visivi e testuali e produce output testuali. Come il loro modello di piccole dimensioni più avanzato, è molto più economico rispetto ad altri modelli all'avanguardia recenti e costa oltre il 60% in meno rispetto a GPT-3.5 Turbo. Mantiene un'intelligenza all'avanguardia, offrendo un notevole rapporto qualità-prezzo. GPT-4o mini ha ottenuto un punteggio dell'82% nel test MMLU e attualmente è classificato più in alto di GPT-4 per preferenze di chat."
   },
+  "openai/o1": {
+    "description": "o1 è il nuovo modello di inferenza di OpenAI, che supporta input testuali e visivi e produce output testuali, adatto a compiti complessi che richiedono una vasta conoscenza generale. Questo modello ha un contesto di 200K e una data di scadenza della conoscenza di ottobre 2023."
+  },
   "openai/o1-mini": {
     "description": "o1-mini è un modello di inferenza rapido ed economico progettato per applicazioni di programmazione, matematica e scienza. Questo modello ha un contesto di 128K e una data di cutoff della conoscenza di ottobre 2023."
   },

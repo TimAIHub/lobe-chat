@@ -1127,6 +1127,9 @@
   "openai/gpt-4o-mini": {
     "description": "GPT-4o mini is the latest model released by OpenAI following GPT-4 Omni, supporting both text and image input while outputting text. As their most advanced small model, it is significantly cheaper than other recent cutting-edge models and over 60% cheaper than GPT-3.5 Turbo. It maintains state-of-the-art intelligence while offering remarkable cost-effectiveness. GPT-4o mini scored 82% on the MMLU test and currently ranks higher than GPT-4 in chat preferences."
   },
+  "openai/o1": {
+    "description": "O1 is OpenAI's new reasoning model that supports both image and text input and outputs text, suitable for complex tasks requiring extensive general knowledge. This model has a context length of 200K and a knowledge cutoff date of October 2023."
+  },
   "openai/o1-mini": {
     "description": "o1-mini is a fast and cost-effective reasoning model designed for programming, mathematics, and scientific applications. This model features a 128K context and has a knowledge cutoff date of October 2023."
   },

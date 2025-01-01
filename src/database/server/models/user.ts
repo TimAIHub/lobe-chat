@@ -97,6 +97,10 @@ export class UserModel {
     };
   };
 
+  getUserSettings = async () => {
+    return this.db.query.userSettings.findFirst({ where: eq(userSettings.id, this.userId) });
+  };
+
   updateUser = async (value: Partial<UserItem>) => {
     return this.db
       .update(users)

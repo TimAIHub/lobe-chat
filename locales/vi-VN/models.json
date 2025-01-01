@@ -1127,6 +1127,9 @@
   "openai/gpt-4o-mini": {
     "description": "GPT-4o mini là mô hình mới nhất của OpenAI, được phát hành sau GPT-4 Omni, hỗ trợ đầu vào hình ảnh và văn bản, và đầu ra văn bản. Là mô hình nhỏ tiên tiến nhất của họ, nó rẻ hơn nhiều so với các mô hình tiên tiến gần đây khác và rẻ hơn hơn 60% so với GPT-3.5 Turbo. Nó giữ lại trí thông minh tiên tiến nhất trong khi có giá trị sử dụng đáng kể. GPT-4o mini đạt 82% điểm trong bài kiểm tra MMLU và hiện đứng đầu về sở thích trò chuyện so với GPT-4."
   },
+  "openai/o1": {
+    "description": "o1 là mô hình suy diễn mới của OpenAI, hỗ trợ đầu vào hình ảnh và văn bản và xuất ra văn bản, phù hợp cho các nhiệm vụ phức tạp cần kiến thức chung rộng rãi. Mô hình này có ngữ cảnh 200K và thời điểm cắt đứt kiến thức vào tháng 10 năm 2023."
+  },
   "openai/o1-mini": {
     "description": "o1-mini là một mô hình suy diễn nhanh chóng và tiết kiệm chi phí, được thiết kế cho các ứng dụng lập trình, toán học và khoa học. Mô hình này có ngữ cảnh 128K và thời điểm cắt kiến thức vào tháng 10 năm 2023."
   },
